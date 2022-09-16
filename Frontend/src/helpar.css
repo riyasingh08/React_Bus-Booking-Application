@@ -1,0 +1,197 @@
+#header1 {
+  background-color: rgb(0, 162, 232);
+  background-image: url("./images/251329393-\(1\)-transformed.jpeg");
+  color: white;
+  width: 105%;
+  height: 850px;
+  position: absolute;
+  top:53%;
+}
+
+/*to chang*/
+ .logo_deep img {
+  width: 150px;
+  height: 80px;
+  position: absolute;
+  left: 10%;
+} 
+
+/* .a {
+  position: absolute;
+  margin-left: 80%;
+  list-style: none;
+} */
+/* li {
+  float: right;
+}
+
+li a {
+  display: block;
+  padding: 15px;
+  background-color: #dddddd27;
+  color: rgb(253, 253, 253);
+} */
+
+/*to chang*/
+.h2_deep {
+  font-size: 50px;
+  color: rgb(0, 247, 255);
+  position: absolute;
+  margin-left: 40%;
+  margin-top: 110px;
+}
+/* .h3 {
+  font-size: 30px;
+  color: rgb(216, 235, 240);
+  position: absolute;
+  margin-left: 41%;
+  margin-top: 670px;
+} */
+/* .h4 {
+  font-size: 20px;
+  color: rgb(0, 247, 255);
+  position: absolute;
+  margin-left: 40%;
+  margin-top: 710px;
+} */
+/* .h5 {
+  font-size: 20px;
+  color: rgb(0, 247, 255);
+  position: absolute;
+  margin-left: 60%;
+  margin-top: 710px;
+} */
+
+/*to chang*/
+.logo_deep img {
+  width: 550px;
+  height: 380px;
+  display: none;
+  position: absolute;
+  margin-left: 30%;
+  margin-top: 200px;
+}
+
+/*to chang*/
+.table_deep {
+  width: 500px;
+  position: absolute;
+  margin-left: 40%;
+  margin-top: 100px;
+  color: darkblue;
+  background-color: aqua;
+  z-index: 1;
+  
+
+  font-size: 20px;
+}
+
+/*to chang*/
+#footer_deep {
+  position: absolute;
+  top:142.5%;
+
+  width: 105%;
+  height: 100px;
+  text-align: left;
+  color: aliceblue;
+
+  background: rgba(1, 0, 10, 0.733);
+}
+
+
+/* .fi {
+  position: absolute;
+  margin-left: 70%;
+  color: aliceblue;
+} */
+
+#call {
+  height: 250px;
+  width: 250px;
+  border-radius: 100%;
+  position: absolute;
+  margin-top: 11.4%;
+  margin-left: 26.0px;
+  left: 35.6%;
+  background-color: rgba(255, 255, 255, 0);
+}
+#call:hover {
+  background-color: rgba(255, 255, 255, 0.459);
+}
+#live_call {
+  height: 250px;
+  width: 250px;
+  border-radius: 100%;
+  position: absolute;
+  margin-top: 18.3%;
+  margin-left: 22.6%;
+  left: 0%;
+  background-color: rgba(255, 255, 255, 0);
+}
+#live_call:hover {
+  background-color: rgba(255, 255, 255, 0.459);
+}
+#technical {
+  height: 250px;
+  width: 250px;
+  border-radius: 100%;
+  position: absolute;
+  margin-top: 25.3%;
+  margin-left: 36.55%;
+  left: 0%;
+  background-color: rgba(255, 255, 255, 0);
+}
+#technical:hover {
+  background-color: rgba(255, 255, 255, 0.459);
+}
+#message {
+  height: 250px;
+  width: 250px;
+  border-radius: 100%;
+  position: absolute;
+  margin-top: 18.3%;
+  margin-left: 50.1%;
+  left: 0%;
+  background-color: rgba(255, 255, 255, 0);
+}
+#message:hover {
+  background-color: rgba(255, 255, 255, 0.459);
+}
+#representative {
+  height: 250px;
+  width: 250px;
+  border-radius: 100%;
+  position: absolute;
+  margin-top: 25.2%;
+  margin-left: 64.4%;
+  left: 0%;
+  background-color: rgba(255, 255, 255, 0);
+}
+#representative:hover {
+  background-color: rgba(255, 255, 255, 0.459);
+}
+#live_message {
+  height: 250px;
+  width: 250px;
+  border-radius: 100%;
+  position: absolute;
+  margin-top: 18.3%;
+  margin-left: 77.9%;
+  left: 0%;
+  background-color: rgba(255, 255, 255, 0);
+}
+#live_message:hover {
+  background-color: rgba(255, 255, 255, 0.459);
+}
+/* #close {
+  height: 50px;
+  width: 50px;
+
+  border-radius: 100%;
+  background-image: url("./images/226-2260101_close-button-png-castel-del-monte-transparent-png.png");
+  position: absolute;
+  margin-top: 5%;
+  margin-left: 63.5%;
+  z-index: 1;
+} */

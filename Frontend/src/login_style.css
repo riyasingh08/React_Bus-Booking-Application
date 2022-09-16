@@ -1,0 +1,440 @@
+.di{
+    top:70%;
+    left:68%;
+    position: absolute;
+   background-image: url("./images/Untitled.png");
+    width: 28%;
+    height:65%;
+    border-radius: 55px;
+    border: 5px solid rgba(255, 255, 255, 0.396);
+    
+    
+    
+}
+.efield{
+    top: 43.9%;
+    left: 23.5%;
+    position: absolute;
+    width: 318px;
+    height: 52px;
+    border-radius: 5px;
+}
+.pfield{
+    top: 52.8%;
+    left: 23.5%;
+    position: absolute;
+    width: 318px;
+    height: 52px;
+    border-radius: 5px;
+}
+.sbutton{
+    top: 62.1%;
+    left: 23.5%;
+    position: absolute;
+    width: 318px;
+    height: 52px;
+    border-radius: 5px;
+    background-color: rgb(248, 65, 65);
+}
+#logoutbutton{
+    top: 87.8%;
+    left: 23.5%;
+    position: absolute;
+    width: 318px;
+    height: 52px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(234, 248, 127);
+    
+}
+#noaccsign{
+    top: 72.8%;
+    left: 25%;
+    position: absolute;
+    width: 218px;
+    height: 52px;
+    border-radius: 5px;
+    border: none;
+    color: white;
+
+}
+#signupbutton{
+    top: 71.8%;
+    left: 60.5%;
+    position: absolute;
+    width: 58px;
+    height: 32px;
+    border-radius: 25px;
+    border: none;
+    font-size: 10px;
+    background-color: white;
+    color: rgb(11, 1, 1);
+
+}
+#signupbutton:hover{
+    top: 71.8%;
+    left: 60.5%;
+    position: absolute;
+    width: 58px;
+    height: 32px;
+    border-radius: 25px;
+    border: none;
+    font-size: 10px;
+    background-color: greenyellow;
+    color: rgb(11, 1, 1);
+
+}
+
+
+
+ .bg1{
+    background-image: url("./images/photography-time-lapse-bokeh-light-wallpaper-preview.jpg");
+    background-repeat: no-repeat;
+    top:52%;
+    position: absolute;;
+     animation-name: bganim;
+    animation-duration: 60s;
+    animation-iteration-count: 30; 
+
+    width: 100%;
+    height: 100%;
+    
+} 
+ @keyframes bganim {
+    0%   {background-image: url("./images/japan-city-road-street-wallpaper-preview.jpg");}
+    15%  {background-image: url("./images/thumb-1920-317196.jpg");}
+    30%  {background-image: url("./images/photography-time-lapse-bokeh-light-wallpaper-preview.jpg");}
+    45%  {background-image: url("./images/Trumpwallpapers\ -\ Bus\ Wallpapers.jpg");}
+    60% {background-image: url("./images/AdobeStock_187684566_Preview.jpeg");}
+    75% {background-image: url("./images/asphalt-night-wallpaper-preview.jpg");}
+    
+    100% {background-image: url("./images/japan-city-road-street-wallpaper-preview.jpg");}
+
+}
+
+.m1{
+    top: 75%;
+    left: 2%;
+    position: absolute;
+    font-weight: bolder;
+    font-family: cursive;
+    font-size: 60px;
+    animation-name: m1anim;
+    animation-duration: 5s;
+    animation-iteration-count: 2;
+    color: rgb(251, 255, 0);
+
+}
+.m2{
+    top: 85%;
+    left: 2%;
+    position: absolute;
+    font-weight: bolder;
+    font-family: cursive;
+    font-size: 60px;
+    animation-name: m2anim;
+    animation-duration: 10s;
+    animation-iteration-count: 2;
+    color: rgb(253, 3, 3);
+
+}
+.m3{
+    top: 95%;
+    left: 2%;
+    position: absolute;
+    font-weight: bolder;
+    font-family: cursive;
+    font-size: 60px;
+    animation-name: m3anim;
+    animation-duration: 15s;
+    animation-iteration-count: 2;
+    color: rgb(27, 55, 233);
+
+}
+.m4{
+    top: 105%;
+    left: 2%;
+    position: absolute;
+    font-weight: bolder;
+    font-family: cursive;
+    font-size: 60px;
+    animation-name: m4anim;
+    animation-duration: 20s;
+    animation-iteration-count: 2;
+    color: rgb(255, 255, 255);
+
+}
+@keyframes m1anim {
+    0%   {color: #ff0101;opacity: 0;}
+    25%  {color: #d9ff01;opacity: 0.5;}
+    50%  {color: #01ffff;opacity: 1;}
+    75%  {color: #1a01ff;opacity: 0.5;}
+    100%  {color: #ff0101;opacity: 0;}
+    
+    
+    
+    
+}
+@keyframes m2anim {
+    0%   {color: #ff0101;opacity: 0;}
+    25%  {color: #1a01ff;opacity: 0.5;}
+    50%  {color: #fdffff;opacity: 1;}
+    75%  {color: #fffb01;opacity: 0.5;}
+    100%  {color: #ff0101;opacity: 0;}
+    
+    
+}
+@keyframes m3anim {
+    0%   {color: #ff0101;opacity: 0;}
+    25%  {color: #d9ff01;opacity: 0.5;}
+    50%  {color: #01ffff;opacity: 1;}
+    75%  {color: #1a01ff;opacity: 0.5;}
+    100%  {color: #ff0101;opacity: 0;}
+    
+    
+}
+@keyframes m4anim {
+    0%   {color: #ff0101;opacity: 0;}
+    25%  {color: #1a01ff;opacity: 0.5;}
+    50%  {color: #fdffff;opacity: 1;}
+    75%  {color: #fffb01;opacity: 0.5;}
+    100%  {color: #ff0101;opacity: 0;}
+    
+    
+}
+#adminAdd{
+  top:70%;
+  left:30%;
+  position: absolute;  
+  background-color: rgba(250, 235, 215, 0.612);
+  width: 500px;
+  height: 700px;
+  border: 15px;
+  border-radius: 15px;
+  border-color: rgba(0, 0, 0, 0.549);
+  display: none;
+}
+#addBusno{
+
+    top: 21.5%;
+    left: 5%;
+    position: absolute;
+    width: 318px;
+    height: 52px;
+    border-radius: 5px;
+    width: 300px;
+    height: 50px;
+}
+#addDate{
+    top: 31.5%;
+    left: 5%;
+    position: absolute;
+    width: 318px;
+    height: 52px;
+    border-radius: 5px;
+    width: 300px;
+    height: 50px;
+}
+#addOrigin{
+    top:40.5%;
+    left: 5%;
+    position: absolute;
+    width: 318px;
+    height: 52px;
+    border-radius: 5px; 
+    width: 300px;
+    height: 50px;
+
+}
+#addDest{
+    top: 50.5%;
+    left: 5%;
+    position: absolute;
+    width: 318px;
+    height: 52px;
+    border-radius: 5px;
+    width: 300px;
+    height: 50px;
+}
+#addAdminbutton{
+    top: 65.5%;
+    left: 5%;
+    position: absolute;
+    width: 318px;
+    height: 52px;
+    border-radius: 5px;
+    width: 300px;
+    height: 50px;
+}
+#AdminPannel{
+    top:55%;
+    left: 7%;
+    position: absolute;
+    width:1000px;
+    background-color: rgb(255, 255, 255);
+    display: none;
+
+}
+#GetAd{
+    top:10%;
+    left:0%;
+    position: absolute;
+    background-color: #d9ff01;
+    border-radius: 5px;
+    width: 300px;
+    height: 50px;
+    font-size: 25px;
+    font-weight: bold;
+    opacity: 0.5;
+}
+#GetAd:hover{
+    top:10%;
+    left:0%;
+    position: absolute;
+    background-color: #d9ff01;
+    border-radius: 5px;
+    width: 300px;
+    height: 50px;
+    font-size: 25px;
+    font-weight: bold;
+    opacity: 1;
+}
+#adminPanneAdd{
+    top:10%;
+    left:50%;
+    position: absolute;
+    background-color: #01e1ff;
+    border-radius: 5px;
+    width: 300px;
+    height: 50px;
+    font-size: 25px;
+    font-weight: bold;
+    opacity: 0.5;
+}
+#adminPanneAdd:hover{
+    top:10%;
+    left:50%;
+    position: absolute;
+    background-color: #01e1ff;
+    border-radius: 5px;
+    width: 300px;
+    height: 50px;
+    font-size: 25px;
+    font-weight: bold;
+    opacity: 1;
+}
+#adminUpdat{
+  top:70%;
+  left:30%;
+  position: absolute;  
+  background-color: rgba(250, 235, 215, 0.612);
+  width: 500px;
+  height: 700px;
+  border: 15px;
+  border-radius: 15px;
+  border-color: rgba(0, 0, 0, 0.549);
+  display: none;
+  
+}
+#idtoedit{
+    top: 11.5%;
+    left: 5%;
+    position: absolute;
+    width: 318px;
+    height: 52px;
+    border-radius: 5px;
+    width: 300px;
+    height: 50px;
+}
+#adminPanneUpdat{
+    top:10%;
+    left:100%;
+    position: absolute;
+    background-color: #ff014d;
+    border-radius: 5px;
+    width: 300px;
+    height: 50px;
+    font-size: 25px;
+    font-weight: bold;
+    opacity: 0.5;
+}
+#adminPanneUpdat:hover{
+    top:10%;
+    left:100%;
+    position: absolute;
+    background-color: #ff014d;
+    border-radius: 5px;
+    width: 300px;
+    height: 50px;
+    font-size: 25px;
+    font-weight: bold;
+    opacity: 1;
+}
+#adminDel{
+  top:70%;
+  left:30%;
+  position: absolute;  
+  background-color: rgba(250, 235, 215, 0.612);
+  width: 500px;
+  height: 700px;
+  border: 15px;
+  border-radius: 15px;
+  border-color: rgba(0, 0, 0, 0.549);
+  display: none;
+}
+#idtodel{
+    top: 35%;
+    left: 5%;
+    position: absolute;
+    width: 318px;
+    height: 52px;
+    border-radius: 5px;
+    width: 300px;
+    height: 50px;
+}
+#adminPanneUDel{
+    top:10%;
+    left:150%;
+    width: 300px;
+    height: 50px;
+    position: absolute;
+    background-color: #4afe02;
+    border-radius: 5px;
+    font-size: 25px;
+    font-weight: bold;
+    opacity: 0.5;
+}
+#adminPanneUDel:hover{
+    top:10%;
+    left:150%;
+    width: 300px;
+    height: 50px;
+    position: absolute;
+    background-color: #4afe02;
+    border-radius: 5px;
+    font-size: 25px;
+    font-weight: bold;
+    opacity: 1;
+}
+#deleteAdminbutton{
+    top: 45.5%;
+    left: 5%;
+    position: absolute;
+    width: 318px;
+    height: 52px;
+    border-radius: 5px;
+    width: 300px;
+    height: 50px;
+}
+#UserPannel{
+    top: 120%;
+    left: 5%;
+    position: absolute;
+}
+.nonfunctionalcss{
+    display: none;
+}
+#textUpload{
+    color: white;
+    font-size: 25px;
+}

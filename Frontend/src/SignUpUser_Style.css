@@ -1,0 +1,173 @@
+#UserSignDiv{
+    background-image: url("./images/videoblocks-motion-dark-blue-triangles-shapes-abstract-geometric-background-elegant-and-luxury-dynamic-style-for-business-and-corporate-template_sbelbvrpxd_thumbnail-1080_01.png");
+    width: 1000px;
+    height: 600px;
+    position: absolute;
+    top:10%;
+    left: 18%;;
+    border: none;
+    
+
+}
+#qqqq{
+    background-color: rgba(173, 192, 230, 0.748);
+    width: 1500px;
+    height: 750px;
+    position: absolute;
+    top:60%;
+    left: 15%;;
+    border: none;
+    border-radius: 15px;
+}
+#UserSignForm{
+    left:58%;
+    top: 10%;
+    position: absolute;
+     
+    
+}
+#freeForm{
+    left:58%;
+    top: 10%;
+    position: absolute;
+    display: none;
+
+}
+#newSignName{
+    width: 318px;
+    height: 52px;
+    border-radius: 5px;
+    width: 300px;
+    height: 50px;
+    position: absolute;
+    top:20%;
+}
+#newSignEmail{
+    width: 318px;
+    height: 52px;
+    border-radius: 5px;
+    width: 300px;
+    height: 50px;
+    position: absolute;
+    top:60%;
+}
+#newSignMobno{
+    width: 318px;
+    height: 52px;
+    border-radius: 5px;
+    width: 300px;
+    height: 50px;
+    position: absolute;
+    top:95%;
+}
+#newSignPass{
+    width: 318px;
+    height: 52px;
+    border-radius: 5px;
+    width: 300px;
+    height: 50px;
+    position: absolute;
+    top:130%;
+}
+#newSignRePass{
+    width: 318px;
+    height: 52px;
+    border-radius: 5px;
+    width: 300px;
+    height: 50px;
+    position: absolute;
+    top:160%;
+
+}
+#newSignButt{
+    width: 318px;
+    height: 52px;
+    border-radius: 15px;
+    width: 300px;
+    height: 50px;
+    position: absolute;
+    top:220%;
+    background-color: rgba(172, 255, 47, 0.84);
+
+}
+#errorShow{
+    position: absolute;
+    top:90%;
+    left: 58%;
+    color: red;
+    font-size: 20px;
+    font-weight: bolder;
+    display: none;
+
+}
+
+#newSignName1{
+    width: 318px;
+    height: 52px;
+    border-radius: 5px;
+    width: 300px;
+    height: 50px;
+    position: absolute;
+    top:20%;
+}
+#newSignEmail1{
+    width: 318px;
+    height: 52px;
+    border-radius: 5px;
+    width: 300px;
+    height: 50px;
+    position: absolute;
+    top:60%;
+}
+#newSignMobno1{
+    width: 318px;
+    height: 52px;
+    border-radius: 5px;
+    width: 300px;
+    height: 50px;
+    position: absolute;
+    top:95%;
+}
+#newSignPass1{
+    width: 318px;
+    height: 52px;
+    border-radius: 5px;
+    width: 300px;
+    height: 50px;
+    position: absolute;
+    top:130%;
+}
+#newSignRePass1{
+    width: 318px;
+    height: 52px;
+    border-radius: 5px;
+    width: 300px;
+    height: 50px;
+    position: absolute;
+    top:160%;
+
+}
+#newSignButt1{
+    width: 318px;
+    height: 52px;
+    border-radius: 15px;
+    width: 300px;
+    height: 50px;
+    position: absolute;
+    top:220%;
+    background-color: rgba(172, 255, 47, 0.84);
+
+}
+
+
+#uploadImg{
+    position:absolute;
+    top:30%;
+    left:10%;
+    
+    
+}
+/* #imgTestUpload{
+    border-radius: 100%;
+    
+} */
