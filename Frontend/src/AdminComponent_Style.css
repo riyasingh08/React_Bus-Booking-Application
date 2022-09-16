@@ -1,0 +1,57 @@
+.dataTab2{
+position: absolute;
+width: 57%;
+height: auto;
+top:70%;
+opacity: 0.8;
+border: none;
+border-radius: 15px;
+font-size: 25px;
+/* background-image: url("./images/ezgif.com-gif-maker.jpg"); */
+background-color: white;
+color: black;
+border: 20px;
+}
+#yyyy{
+    top:-40%;
+    position:relative;
+}
+#userAddBookibg{
+    background-color:rgb(0, 0, 0);
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+
+
+#noneAddBusno{
+    display: none;
+    height: 0px;
+    width: 0px;
+}
+#noneAdddate{
+    display: none;
+    
+    height: 0px;
+    width: 0px;
+}
+#noneAddtoDest{
+    display: none;
+    
+    height: 0px;
+    width: 0px;
+}
+#noneAddfromOrigin{
+    display: none;
+    
+    height: 0px;
+    width: 0px;
+}
+#no_bus_heading{
+    position: absolute;
+    top:75%;
+    color: red;
+    font-size: 35px;
+    display: none;
+
+}

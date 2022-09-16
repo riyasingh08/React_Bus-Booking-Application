@@ -1,0 +1,215 @@
+.aboutstyle{
+    width: 100%;
+    height: 1000px;
+    display:flex;
+    top:53%;
+    position:absolute;
+    justify-content: space-around; 
+    /* align-items: center; */
+    text-align: center;
+    background-image: url("./images/about_bg1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    color:antiquewhite;
+}
+.hh1{
+    height:fit-content;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: absolute;
+    margin-left: 50%;
+    margin-top: 5%;
+    font-weight: bolder;
+    color:aquamarine;
+}
+
+.testmrquee
+{
+    margin-top:200px;
+    height:40px;
+    width:800px;
+    font-size: 34px;
+    font-weight: bold ;
+    position: absolute;
+    background-color: crimson;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.Container1
+{
+    /* margin-top: 100px;
+    height: 400px;
+    width:700px;
+    display: flex;
+    color:rgb(163, 10, 10);
+    background-color: rgb(226, 164, 231);
+    position:fixed;
+    margin-left:5%; */
+    width: 760px;
+    height: 580px;
+    opacity: 0.8;
+   /* margin-top: 5px;*/
+    position: absolute;
+   /* left: 51.9%; */
+    top: 280px;
+    background-color:rgb(241, 241, 236);
+   
+}
+
+/* .Container:hover {
+    width: 80%;
+    height: 100%;
+    opacity: 1;
+    position: absolute;
+   left: 51.9%;
+    top: 620px;
+} */
+.Upper
+{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    column-gap: 10px;
+    height:300;
+    width:100%;
+   
+}
+.Middle
+{
+    height: 260px;
+    width: 100%;
+}
+.Lower{
+    margin-top: 10px;
+    height:125px;
+    width:100%;
+    background-color:rgb(183, 34, 228);
+}
+/* .Lower:hover
+{
+    height:120px;
+    width:100%;
+    background-color:rgb(183, 34, 228);
+} */
+.MissionStatement
+{
+    margin-left: 0px;
+    width:260px;height:300px;
+    background-color:rgb(218, 240, 20);
+    opacity:0.7;
+    font-weight: bold;
+    color:rgb(247, 4, 105);
+}
+.MissionStatement:hover
+{
+    margin-left: 0px;
+    width:270px;height:300px;
+    background-color: rgb(218, 240, 20);
+    opacity:1;
+    color:rgb(247, 4, 4);
+}
+.hh2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-display: center;
+    font-style:oblique ;
+    text-decoration:underline;
+}
+#historyPara{
+    position: relative;
+    left:-10%
+}
+.hh3{
+    animation: 'animate 1.5s linear infinite';
+    text-decoration:underline;
+}
+.Values
+{
+    float: right;
+    margin-left: 500px;
+    width:260px;height:300px;
+    background-color:rgb(235, 154, 32);
+    opacity:0.7;
+    color:rgb(207, 50, 194);
+    font-weight: bold;
+    position:absolute;
+   
+    
+
+}
+.Values:hover
+{
+    margin-left: 490px;
+    width:270px;height:300px;
+    background-color:rgb(240, 194, 46);
+    opacity:1;
+    color:rgb(207, 50, 194);
+    font-weight: bold;
+    position:absolute;
+}
+
+.History
+{
+    margin-left: 250px;
+    width:260px;height:260px;
+    margin-top: 5px;
+    background-color:rgb(37, 238, 11);
+    opacity:0.7;
+    color:rgb(58, 13, 219);
+    font-weight: bold;
+    position:absolute;
+    
+}
+.History:hover
+{
+    margin-left: 245px;
+    width:270px;height:260px;
+    background-color:rgb(37, 238, 11);
+    opacity:1;
+    color:rgb(58, 13, 219);
+    font-weight: bold;
+    position:absolute;
+    
+}
+.buttndes {
+    /* display: inline-block; */
+    padding: 5px 5px;
+    font-size: 12px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+    /* position: absolute;
+    top:106%;
+    left:48%; */
+  }
+  
+  .buttndes:hover {
+    padding: 8px 8px;
+    font-size: 14px;
+    cursor: pointer;
+    background-color: #21c027}
+  
+  .buttndes:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+  .buttonBook{
+    display: block;
+    margin-left: 30%;
+    padding: 5px 5px;
+    font-size: 12px;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: rgb(0, 0, 0);
+    background-color: #1ee6e9;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px rgb(54, 105, 176);
+  }

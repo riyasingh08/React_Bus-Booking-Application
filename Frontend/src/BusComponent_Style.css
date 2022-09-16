@@ -1,0 +1,13 @@
+.dataTab{
+    position: absolute;
+    width: 57%;
+    height: 100%;
+    top:70%;
+    opacity: 0.8;
+    border: none;
+    border-radius: 15px;
+    font-size: 25px;
+    background-image: url("./images/ezgif.com-gif-maker.jpg");
+    color: black;
+    border: 20px;
+}
