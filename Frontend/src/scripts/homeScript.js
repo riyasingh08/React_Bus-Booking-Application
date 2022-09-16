@@ -1,0 +1,6 @@
+<script>
+fetchLoginStatus()
+    {
+        
+    }
+</script>
